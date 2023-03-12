@@ -6,7 +6,7 @@ Le programme a été fais en 4h. Il peut contenir, raisonnements illogiques (par
 
 ---
 - [ ] Faire des niveaux(mode histoire)
-- [ ] Faire un maximum de test (7,12,17,30)
+- [x] Faire un maximum de test (7,12,17,30)
 - [ ] Interface graphique
 - [ ] Optimisation du code
 ---
